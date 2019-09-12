@@ -20,3 +20,36 @@
 [submodule "HWS_Project5"]
 	path = HWS_Project5
 	url = https://github.com/Adrimi/HWS_Project5.git
+[submodule "HWS_Project6"]
+	path = HWS_Project6
+	url = https://github.com/Adrimi/HWS_Project6.git
+[submodule "HWS_Project7"]
+	path = HWS_Project7
+	url = https://github.com/Adrimi/HWS_Project7.git
+[submodule "HWS_Project8"]
+	path = HWS_Project8
+	url = https://github.com/Adrimi/HWS_Project8.git
+[submodule "HWS_Project10"]
+	path = HWS_Project10
+	url = https://github.com/Adrimi/HWS_Project10.git
+[submodule "HWS_Project11"]
+	path = HWS_Project11
+	url = https://github.com/Adrimi/HWS_Project11.git
+[submodule "HWS_Project1"]
+	path = HWS_Project1
+	url = https://github.com/Adrimi/HWS_Project1.git
+[submodule "LVL_Homework2"]
+	path = LVL_Homework2
+	url = https://github.com/Adrimi/LVL_Homework2.git
+[submodule "HWS_Challenge4"]
+	path = HWS_Challenge4
+	url = https://github.com/Adrimi/HWS_Challenge4.git
+[submodule "RW_UICollectionView_Flickr"]
+	path = RW_UICollectionView_Flickr
+	url = https://github.com/Adrimi/RW_UICollectionView_Flickr.git
+[submodule "stanford_concentration"]
+	path = stanford_concentration
+	url = https://github.com/Adrimi/stanford_concentration.git
+[submodule "HWS_Challenge2"]
+	path = HWS_Challenge2
+	url = https://github.com/Adrimi/HWS_Challenge2.git

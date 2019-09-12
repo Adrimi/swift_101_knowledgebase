@@ -39,6 +39,9 @@ class ViewController: UITableViewController {
         let cell = tableView.dequeueReusableCell(withIdentifier: "Country", for: indexPath)
         cell.textLabel?.text = pictures[indexPath.row]
         cell.imageView?.image = UIImage(named: pictures[indexPath.row])
+        cell.imageView?.layer.borderColor = #colorLiteral(red: 0, green: 0, blue: 0, alpha: 1)
+        cell.imageView?.layer.borderWidth = 1
+        cell.imageView?.layer.cornerRadius = 4
         return cell
     }
     

@@ -1,3 +1,22 @@
 [submodule "HWS_Project13"]
 	path = HWS_Project13
 	url = https://github.com/Adrimi/HWS_Project13.git
+[submodule "HWS_Challenge1"]
+	path = HWS_Challenge1
+	url = https://github.com/Adrimi/HWS_Challenge1.git
+[submodule "LVL_Homework1"]
+	path = LVL_Homework1
+	url = https://github.com/Adrimi/LVL_Homework1.git
+[submodule "HWS_Project4"]
+	path = HWS_Project4
+	url = https://github.com/Adrimi/HWS_Project4.git
+[submodule "LVL_Homework3"]
+	path = LVL_Homework3
+	url = https://github.com/Adrimi/LVL_Homework3.git
+
+[submodule "LVL_Homework4"]
+	path = LVL_Homework4
+	url = https://github.com/Adrimi/LVL_Homework4.git
+[submodule "HWS_Project5"]
+	path = HWS_Project5
+	url = https://github.com/Adrimi/HWS_Project5.git

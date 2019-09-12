@@ -52,3 +52,6 @@
 [submodule "RW_Pinterest"]
 	path = RW_Pinterest
 	url = https://github.com/Adrimi/RW_Pinterest.git
+[submodule "HWS_Project5"]
+	path = HWS_Project5
+	url = https://github.com/Adrimi/HWS_Project5.git

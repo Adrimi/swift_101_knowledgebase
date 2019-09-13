@@ -55,3 +55,6 @@
 [submodule "HWS_Project5"]
 	path = HWS_Project5
 	url = https://github.com/Adrimi/HWS_Project5.git
+[submodule "HWS_Coordinators_Pattern"]
+	path = HWS_Coordinators_Pattern
+	url = https://github.com/Adrimi/HWS_Coordinators_Pattern.git

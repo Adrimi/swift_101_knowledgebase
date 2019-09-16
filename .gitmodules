@@ -58,3 +58,6 @@
 [submodule "HWS_Coordinators_Pattern"]
 	path = HWS_Coordinators_Pattern
 	url = https://github.com/Adrimi/HWS_Coordinators_Pattern.git
+[submodule "RW_Alamofire-Image"]
+	path = RW_Alamofire-Image
+	url = https://github.com/Adrimi/RW_Alamofire-Image.git
